@@ -128,7 +128,8 @@ This screenshot displays the main interface of the Electric Production Forecast 
 ## 2. Forecast Results
 
 This screenshot shows the forecasting section of the dashboard. It contains a table of predicted production values along with a forecast visualization plot. The blue line represents historical production data, while the red line indicates forecasted future production generated using the ARIMA time series forecasting model.
-<img width="624" height="813" alt="image" src="https://github.com/user-attachments/assets/fd1b17a1-09e8-40bc-a7c7-3e8ed913cb7e" />
+
+<img width="696" height="847" alt="image" src="https://github.com/user-attachments/assets/fd1b17a1-09e8-40bc-a7c7-3e8ed913cb7e" />
 
 ---
 
