@@ -61,7 +61,7 @@ forecast = model.forecast(steps=forecast_steps)
 future_dates = pd.date_range(
     start=df.index[-1],
     periods=forecast_steps + 1,
-    freq='M'
+    freq='MS'
 )[1:]
 
 forecast_df = pd.DataFrame({
