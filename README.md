@@ -120,14 +120,17 @@ ARIMA captures:
 ## 1. Dashboard Overview
 
 This screenshot displays the main interface of the Electric Production Forecast Dashboard developed using Streamlit. It includes a preview of the dataset, historical electric production trends, and an interactive slider that allows users to select the number of forecast periods. The graph visualizes production patterns over time and highlights seasonal fluctuations in electricity production.
-"C:\Users\shaha\OneDrive\Pictures\Screenshots\Screenshot 2026-05-29 224546.png"
+<img width="696" height="847" alt="image" src="https://github.com/user-attachments/assets/3771634b-d2ff-4334-9ca2-439f37cfff7b" />
+
 
 ---
 
 ## 2. Forecast Results
 
 This screenshot shows the forecasting section of the dashboard. It contains a table of predicted production values along with a forecast visualization plot. The blue line represents historical production data, while the red line indicates forecasted future production generated using the ARIMA time series forecasting model.
+<img width="624" height="813" alt="image" src="https://github.com/user-attachments/assets/fd1b17a1-09e8-40bc-a7c7-3e8ed913cb7e" />
 
+---
 
 # Future Improvements
 
